@@ -69,3 +69,4 @@ Tkinter / CustomTkinter
 # Outcome
 
 This project demonstrates real-time image processing, database connectivity, GUI development, and AI-powered color detection in one integrated solution, delivering a smart, efficient, and user-friendly color detection application.
+https://color-detection-application/login
