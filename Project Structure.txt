@@ -1,0 +1,14 @@
+Color-Detection-App/
+│
+├── login.py
+├── colormain.py  (rename your maincolors.py to this – your login.py expects colormain.py)
+├── colors.csv
+├── users.db
+│
+├── images/
+│   ├── backgroundimage.jpg
+│   ├── image1.jpg
+│   └── image2.jpg
+│
+├── requirements.txt
+└── README.md
